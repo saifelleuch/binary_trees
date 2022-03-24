@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_sibling - a function that checks if a binary tree is perfect
- * @tree: is a pointer to the root node of the tree to check
+ * @node: is a pointer to the root node of the tree to check
  * Return: node or NULL
  */
 
